@@ -19,5 +19,16 @@ class HomeController extends Controller
 	}
     function f(){
         $number=1000;
+        $number=1000;
+        $number=1000;
+        $number=1000;
+        $number=1000;
+        $number=1000;
+        $number=1000;
+        $number=1000;
+        $number=1000;
+        $number=1000;
+        $number=1000;
+        $number=1000;
     }
 }
