@@ -17,4 +17,7 @@ class HomeController extends Controller
 		}
 
 	}
+    function f(){
+        $number=1000;
+    }
 }
